@@ -11,6 +11,7 @@ main{
 
 .conteiner-card{
     display: flex;
+    width: 100%;
 }
 
 img{
