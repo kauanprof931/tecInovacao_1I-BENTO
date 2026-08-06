@@ -16,7 +16,12 @@ main{
 }
 
 .card{
-    margin: 0px 10px;
+    padding: 5px;
+    border: 2px solid blue;
+    margin: 10px;
+    background-color: rgb(0, 0, 87);
+    color: white;
+    text-align: center;
 }
 
 img{
