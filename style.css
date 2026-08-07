@@ -2,7 +2,7 @@
 :root {
     --bg-color: #141414;
     --card-bg: #1f1f1f;
-    --primary-color: #e50914;
+    --primary-color: #180bce;
     --text-color: #ffffff;
     --text-muted: #a3a3a3;
     --font-family: 'Inter', sans-serif;
@@ -178,8 +178,8 @@ body {
 }
 
 .btn-watch:hover {
-    background-color: #f40612;
-    box-shadow: 0 4px 12px rgba(229, 9, 20, 0.4);
+    background-color: #0425f7;
+    box-shadow: 0 4px 12px rgba(1, 10, 251, 0.4);
 }
 
 /* Rodapé */
