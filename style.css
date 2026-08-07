@@ -16,12 +16,13 @@ main{
 }
 
 .card{
-    padding: 5px;
+    padding: 20px;
     border: 2px solid blue;
     margin: 10px;
     background-color: rgb(0, 0, 87);
     color: white;
     text-align: center;
+    border-radius: 10px;
 }
 
 img{
